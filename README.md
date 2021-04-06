@@ -7,3 +7,16 @@
 
 ### Project Introduction
 This project is aimed at analysis using data visualization in Tableau and ind three insights in the visualizations. For each insight, provide a static image that shares what you found. Write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. Altogether (including images), your report should be 1-2 pages.
+
+
+
+## Project 2 : Analyze NYSE Data
+
+### Project Introduction
+In this project i analyzed real life data from the New York Stock Exchange. I made a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. I have created a smaller subset of the data that i will be using for the project.
+
+### What skills I used?
+-interpret the measures of central tendency and spread (mean, median, standard deviation, range)
+-use a combination of Excel functions (e.g., IF statements, INDEX and MATCH, calculating descriptive statistics with the IF statement, drop downs, data validation, VLOOKUP).
+-analyze and forecast financial business metrics using Excel .
+-create visualizations of a business metric and use Excel to create a financial forecast model.
