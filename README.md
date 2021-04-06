@@ -10,6 +10,9 @@ This project is aimed at analysis using data visualization in Tableau and ind th
 
 
 
+
+
+
 ## Project 2 : Analyze NYSE Data
 
 ### Project Introduction
@@ -20,3 +23,13 @@ In this project i analyzed real life data from the New York Stock Exchange. I ma
 -use a combination of Excel functions (e.g., IF statements, INDEX and MATCH, calculating descriptive statistics with the IF statement, drop downs, data validation, VLOOKUP).
 -analyze and forecast financial business metrics using Excel .
 -create visualizations of a business metric and use Excel to create a financial forecast model.
+
+
+
+
+
+
+## Project 3 : Predicting Diamond Prices
+
+### Project Introduction
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
