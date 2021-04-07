@@ -33,3 +33,13 @@ In this project i analyzed real life data from the New York Stock Exchange. I ma
 
 ### Project Introduction
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
+
+
+
+
+
+
+## Project 4 :  Build Data Dashboards (Youtube Analyze)
+
+### Project Introduction
+In this project, i build interactive dashboards with Tableau and use them to discover and communicate insights from data.
